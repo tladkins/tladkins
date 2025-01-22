@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 - 🔭 I’m currently working on getting my Associates in Software Engineering
 - 🌱 I’m currently learning Java, SQL, and HTML.
